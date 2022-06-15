@@ -1,6 +1,6 @@
 # Iwasawa
 
-*Work in progress by Daniel Delbourgo and Heiko Knospe*
+*On Iwasawa* $\lambda$*-invariants for abelian number fields and random matrix heuristics* - preprint by Daniel Delbourgo and Heiko Knospe
 
 This respository contains SageMath code for computing p-adic L-functions, Iwasawa power series and $\lambda$-invariants.
 
@@ -8,6 +8,13 @@ This respository contains SageMath code for computing p-adic L-functions, Iwasaw
 [Computation of the Iwasawa power series for Dirichlet characters using series expansions](power_series_dirichlet.ipynb)  
 [The Iwasawa power series for Dirichlet characters via interpolation of Bernoulli numbers](power_series_interpolation.ipynb)   
 [The 𝜆-invariant of the Iwasawa power series for Dirichlet characters via interpolation of Bernoulli numbers](power_series_lambda.ipynb)
+
+Tables of $\lambda$-invariants for small characters and $p$ are here:    
+[Table for p=3](lambda3-1000.txt)   
+[Table for p=5](lambda5-1000.txt)   
+[Table for p=7](lambda7-1000.txt)   
+The code for the computations of these tables can be found [here](power_series_lambda.ipynb).
+
 
 ## References
 Daniel Delbourgo, A Dirichlet series expansion for the $p$-adic zeta-function, Journal of the Australian Math. Society 81 (2006), 215-224.

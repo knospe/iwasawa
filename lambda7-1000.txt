@@ -1,0 +1,700 @@
+p= 7
+lambda= 1 , even Dirichlet character modulo 601 of conductor 601 mapping 7 |--> zeta300^17 , twist= 0 , order= 300 , f= 4 
+lambda= 1 , odd Dirichlet character modulo 601 of conductor 601 mapping 7 |--> zeta8 , twist= 1 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 601 of conductor 601 mapping 7 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 601 of conductor 601 mapping 7 |--> zeta3 , twist= 0 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 601 of conductor 601 mapping 7 |--> zeta300^69 - zeta300^19 , twist= 0 , order= 300 , f= 4 
+lambda= 1 , even Dirichlet character modulo 601 of conductor 601 mapping 7 |--> -zeta300^71 + zeta300^51 + zeta300^41 - zeta300^11 - zeta300 , twist= 0 , order= 300 , f= 4 
+lambda= 1 , even Dirichlet character modulo 601 of conductor 601 mapping 7 |--> zeta300^73 - zeta300^53 - zeta300^43 - zeta300^33 + zeta300^13 + zeta300^3 , twist= 0 , order= 300 , f= 4 
+lambda= 1 , odd Dirichlet character modulo 601 of conductor 601 mapping 7 |--> -zeta8^3 , twist= 1 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 603 of conductor 603 mapping 470 |--> zeta6, 136 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 603 of conductor 603 mapping 470 |--> zeta6 - 1, 136 |--> zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 603 of conductor 603 mapping 470 |--> zeta6, 136 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 603 of conductor 603 mapping 470 |--> zeta6 - 1, 136 |--> -1 , twist= 5 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 603 of conductor 603 mapping 470 |--> -zeta6 + 1, 136 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 603 of conductor 603 mapping 470 |--> zeta6, 136 |--> -zeta6 , twist= 1 , order= 6 , f= 1 , trivial zero
+lambda= 1 , odd Dirichlet character modulo 603 of conductor 603 mapping 470 |--> zeta6, 136 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 603 of conductor 603 mapping 470 |--> -zeta6 + 1, 136 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 603 of conductor 603 mapping 470 |--> -zeta6 + 1, 136 |--> -zeta6 + 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 604 of conductor 604 mapping 303 |--> -1, 157 |--> -zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 604 of conductor 604 mapping 303 |--> -1, 157 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 604 of conductor 604 mapping 303 |--> -1, 157 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 604 of conductor 604 mapping 303 |--> -1, 157 |--> -zeta6 + 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 608 of conductor 608 mapping 191 |--> 1, 229 |--> zeta24^3, 97 |--> zeta24^4 , twist= 3 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 608 of conductor 608 mapping 191 |--> 1, 229 |--> zeta24^5 - zeta24, 97 |--> zeta24^4 , twist= 1 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 608 of conductor 608 mapping 191 |--> 1, 229 |--> -zeta24^3, 97 |--> zeta24^4 , twist= 1 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 608 of conductor 608 mapping 191 |--> 1, 229 |--> -zeta24^5 + zeta24, 97 |--> zeta24^4 , twist= 3 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 608 of conductor 608 mapping 191 |--> -1, 229 |--> zeta24^5 - zeta24, 97 |--> -zeta24^4 , twist= 5 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 608 of conductor 608 mapping 191 |--> -1, 229 |--> -zeta24^3, 97 |--> -zeta24^4 , twist= 5 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 611 of conductor 611 mapping 236 |--> -zeta6, 287 |--> -1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 611 of conductor 611 mapping 236 |--> -zeta6 + 1, 287 |--> -1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 612 of conductor 612 mapping 307 |--> -1, 137 |--> zeta48^8, 37 |--> zeta48^3 , twist= 3 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 612 of conductor 612 mapping 307 |--> -1, 137 |--> zeta48^8, 37 |--> zeta48^13 - zeta48^5 , twist= 3 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 613 of conductor 613 mapping 2 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 615 of conductor 615 mapping 206 |--> -1, 247 |--> -1, 211 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 617 of conductor 617 mapping 3 |--> -1 , twist= 4 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 619 of conductor 619 mapping 2 |--> zeta3 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 619 of conductor 619 mapping 2 |--> -zeta6 + 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 620 of conductor 620 mapping 311 |--> -1, 497 |--> -1, 561 |--> zeta6 - 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 620 of conductor 620 mapping 311 |--> -1, 497 |--> -1, 561 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 620 of conductor 620 mapping 311 |--> -1, 497 |--> -1, 561 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 627 of conductor 627 mapping 419 |--> -1, 343 |--> -1, 496 |--> zeta18^4 , twist= 0 , order= 18 , f= 3 
+lambda= 1 , even Dirichlet character modulo 627 of conductor 627 mapping 419 |--> -1, 343 |--> -1, 496 |--> -zeta18 , twist= 0 , order= 18 , f= 3 
+lambda= 1 , even Dirichlet character modulo 627 of conductor 627 mapping 419 |--> -1, 343 |--> -1, 496 |--> -zeta18^4 + zeta18 , twist= 0 , order= 18 , f= 3 
+lambda= 1 , odd Dirichlet character modulo 628 of conductor 628 mapping 315 |--> -1, 5 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 628 of conductor 628 mapping 315 |--> -1, 5 |--> -zeta6 + 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 628 of conductor 628 mapping 315 |--> -1, 5 |--> -zeta6 + 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 629 of conductor 629 mapping 445 |--> zeta16^3, 409 |--> -1 , twist= 5 , order= 16 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 629 of conductor 629 mapping 445 |--> zeta16^5, 409 |--> -1 , twist= 5 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 629 of conductor 629 mapping 445 |--> zeta8^3, 409 |--> -1 , twist= 2 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 629 of conductor 629 mapping 445 |--> -1, 409 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 629 of conductor 629 mapping 445 |--> -zeta8, 409 |--> -1 , twist= 2 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 629 of conductor 629 mapping 445 |--> -1, 409 |--> -zeta6 + 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 629 of conductor 629 mapping 445 |--> -zeta48^3, 409 |--> -zeta48^8 + 1 , twist= 3 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 629 of conductor 629 mapping 445 |--> -zeta48^13 + zeta48^5, 409 |--> -zeta48^8 + 1 , twist= 3 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 632 of conductor 632 mapping 159 |--> -1, 317 |--> -1, 161 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 632 of conductor 632 mapping 159 |--> 1, 317 |--> -1, 161 |--> zeta6 - 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 632 of conductor 632 mapping 159 |--> -1, 317 |--> -1, 161 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 632 of conductor 632 mapping 159 |--> -1, 317 |--> -1, 161 |--> -zeta6 + 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 633 of conductor 633 mapping 212 |--> -1, 424 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 635 of conductor 635 mapping 382 |--> -1, 511 |--> zeta6 - 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 635 of conductor 635 mapping 382 |--> -1, 511 |--> zeta6 - 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 635 of conductor 635 mapping 382 |--> -1, 511 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 636 of conductor 636 mapping 319 |--> -1, 425 |--> -1, 373 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 639 of conductor 639 mapping 569 |--> zeta6, 433 |--> -1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 639 of conductor 639 mapping 569 |--> zeta6, 433 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 639 of conductor 639 mapping 569 |--> zeta6 - 1, 433 |--> -1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 643 of conductor 643 mapping 11 |--> zeta3 , twist= 0 , order= 3 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 643 of conductor 643 mapping 11 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 643 of conductor 643 mapping 11 |--> -zeta6 + 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 645 of conductor 645 mapping 431 |--> -1, 517 |--> -1, 46 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 3 , even Dirichlet character modulo 649 of conductor 649 mapping 178 |--> -1, 474 |--> -1 , twist= 4 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 652 of conductor 652 mapping 327 |--> -1, 165 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 652 of conductor 652 mapping 327 |--> -1, 165 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 653 of conductor 653 mapping 2 |--> -1 , twist= 4 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 657 of conductor 657 mapping 74 |--> -zeta6 + 1, 370 |--> -1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 657 of conductor 657 mapping 74 |--> zeta3, 370 |--> -zeta3 - 1 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 657 of conductor 657 mapping 74 |--> -zeta6 + 1, 370 |--> -zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 657 of conductor 657 mapping 74 |--> -zeta6, 370 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 661 of conductor 661 mapping 2 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 661 of conductor 661 mapping 2 |--> zeta3 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 661 of conductor 661 mapping 2 |--> zeta3 , twist= 4 , order= 3 , f= 1 
+lambda= 3 , even Dirichlet character modulo 661 of conductor 661 mapping 2 |--> -zeta3 - 1 , twist= 0 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 661 of conductor 661 mapping 2 |--> -zeta6 + 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> -1, 547 |--> zeta8 , twist= 3 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> -zeta24^2, 547 |--> zeta24^3 , twist= 0 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> zeta16^4, 547 |--> zeta16^3 , twist= 1 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> -zeta12, 547 |--> zeta12^3 , twist= 0 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> -zeta12^3 + zeta12, 547 |--> zeta12^3 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> -zeta16^4, 547 |--> zeta16^5 , twist= 1 , order= 16 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> zeta6, 547 |--> -1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> zeta6, 547 |--> -1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> -1, 547 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> zeta12, 547 |--> -zeta12^3 , twist= 0 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> zeta12^3 - zeta12, 547 |--> -zeta12^3 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> zeta24^2, 547 |--> -zeta24^5 + zeta24 , twist= 0 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 663 of conductor 663 mapping 443 |--> -1, 613 |--> -1, 547 |--> -zeta8^3 , twist= 3 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 668 of conductor 668 mapping 335 |--> -1, 5 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 669 of conductor 669 mapping 224 |--> -1, 226 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 671 of conductor 671 mapping 123 |--> -1, 551 |--> zeta6 - 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 671 of conductor 671 mapping 123 |--> -1, 551 |--> zeta6 - 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 671 of conductor 671 mapping 123 |--> -1, 551 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 671 of conductor 671 mapping 123 |--> -1, 551 |--> -zeta6 + 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 673 of conductor 673 mapping 5 |--> zeta16 , twist= 4 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 673 of conductor 673 mapping 5 |--> zeta48^5 , twist= 0 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 673 of conductor 673 mapping 5 |--> zeta16^7 , twist= 4 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 673 of conductor 673 mapping 5 |--> -zeta3 - 1 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 673 of conductor 673 mapping 5 |--> -zeta48^11 , twist= 0 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 680 of conductor 680 mapping 511 |--> 1, 341 |--> -1, 137 |--> zeta16^4, 241 |--> -zeta16^3 , twist= 0 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 680 of conductor 680 mapping 511 |--> 1, 341 |--> -1, 137 |--> -zeta16^4, 241 |--> -zeta16^5 , twist= 0 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 681 of conductor 681 mapping 455 |--> -1, 229 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 683 of conductor 683 mapping 5 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 684 of conductor 684 mapping 343 |--> -1, 533 |--> zeta6 - 1, 325 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 684 of conductor 684 mapping 343 |--> -1, 533 |--> zeta6 - 1, 325 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 684 of conductor 684 mapping 343 |--> -1, 533 |--> zeta6 - 1, 325 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 684 of conductor 684 mapping 343 |--> -1, 533 |--> -zeta6, 325 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 684 of conductor 684 mapping 343 |--> -1, 533 |--> -zeta6, 325 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 684 of conductor 684 mapping 343 |--> -1, 533 |--> -zeta6 + 1, 325 |--> zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 684 of conductor 684 mapping 343 |--> -1, 533 |--> -zeta6 + 1, 325 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 684 of conductor 684 mapping 343 |--> -1, 533 |--> zeta6 - 1, 325 |--> zeta6 - 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 684 of conductor 684 mapping 343 |--> -1, 533 |--> -zeta6 + 1, 325 |--> zeta6 - 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 684 of conductor 684 mapping 343 |--> -1, 533 |--> zeta6 - 1, 325 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 684 of conductor 684 mapping 343 |--> -1, 533 |--> -zeta6, 325 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 684 of conductor 684 mapping 343 |--> -1, 533 |--> -zeta6 + 1, 325 |--> -zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 685 of conductor 685 mapping 412 |--> -1, 551 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 2 , even Dirichlet character modulo 685 of conductor 685 mapping 412 |--> -1, 551 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 687 of conductor 687 mapping 230 |--> -1, 235 |--> zeta114^22 , twist= 1 , order= 114 , f= 3 
+lambda= 1 , odd Dirichlet character modulo 687 of conductor 687 mapping 230 |--> -1, 235 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 687 of conductor 687 mapping 230 |--> -1, 235 |--> zeta114^21 - zeta114^2 , twist= 1 , order= 114 , f= 3 
+lambda= 1 , odd Dirichlet character modulo 687 of conductor 687 mapping 230 |--> -1, 235 |--> zeta114^33 - zeta114^14 , twist= 1 , order= 114 , f= 3 
+lambda= 1 , odd Dirichlet character modulo 688 of conductor 688 mapping 431 |--> -1, 517 |--> zeta12^3, 433 |--> -zeta12^2 , twist= 1 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 688 of conductor 688 mapping 431 |--> -1, 517 |--> -zeta12^3, 433 |--> -zeta12^2 , twist= 1 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 689 of conductor 689 mapping 54 |--> zeta12^3 - zeta12, 638 |--> zeta12^3 , twist= 0 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 689 of conductor 689 mapping 54 |--> -zeta12^2, 638 |--> zeta12^3 , twist= 5 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 689 of conductor 689 mapping 54 |--> zeta6, 638 |--> -1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 689 of conductor 689 mapping 54 |--> zeta12^3 - zeta12, 638 |--> -1 , twist= 3 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 689 of conductor 689 mapping 54 |--> -1, 638 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 689 of conductor 689 mapping 54 |--> -zeta12^3 + zeta12, 638 |--> -1 , twist= 3 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 689 of conductor 689 mapping 54 |--> -zeta12^2, 638 |--> -zeta12^3 , twist= 5 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 689 of conductor 689 mapping 54 |--> -zeta12^3 + zeta12, 638 |--> -zeta12^3 , twist= 0 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 691 of conductor 691 mapping 3 |--> zeta3 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 692 of conductor 692 mapping 347 |--> -1, 521 |--> zeta4 , twist= 0 , order= 4 , f= 2 
+lambda= 1 , even Dirichlet character modulo 692 of conductor 692 mapping 347 |--> -1, 521 |--> -zeta4 , twist= 0 , order= 4 , f= 2 
+lambda= 1 , even Dirichlet character modulo 695 of conductor 695 mapping 557 |--> -1, 141 |--> -zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 696 of conductor 696 mapping 175 |--> 1, 349 |--> -1, 233 |--> -1, 553 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 697 of conductor 697 mapping 411 |--> zeta16^7, 375 |--> zeta16^2 , twist= 2 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 697 of conductor 697 mapping 411 |--> zeta16^5, 375 |--> zeta16^6 , twist= 2 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 697 of conductor 697 mapping 411 |--> zeta16^7, 375 |--> zeta16^6 , twist= 2 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 697 of conductor 697 mapping 411 |--> zeta16, 375 |--> -zeta16^2 , twist= 2 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 697 of conductor 697 mapping 411 |--> zeta16^3, 375 |--> -zeta16^2 , twist= 2 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 697 of conductor 697 mapping 411 |--> zeta16, 375 |--> -zeta16^6 , twist= 2 , order= 16 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 699 of conductor 699 mapping 467 |--> -1, 469 |--> zeta4 , twist= 3 , order= 4 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 699 of conductor 699 mapping 467 |--> -1, 469 |--> -zeta4 , twist= 3 , order= 4 , f= 2 
+lambda= 1 , even Dirichlet character modulo 703 of conductor 703 mapping 667 |--> zeta18^4, 39 |--> zeta18^3 , twist= 0 , order= 18 , f= 3 
+lambda= 1 , even Dirichlet character modulo 703 of conductor 703 mapping 667 |--> -zeta18, 39 |--> zeta18^3 , twist= 0 , order= 18 , f= 3 
+lambda= 1 , even Dirichlet character modulo 703 of conductor 703 mapping 667 |--> -zeta6, 39 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 703 of conductor 703 mapping 667 |--> -zeta6 + 1, 39 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 703 of conductor 703 mapping 667 |--> -zeta18^4 + zeta18, 39 |--> zeta18^3 , twist= 0 , order= 18 , f= 3 
+lambda= 1 , odd Dirichlet character modulo 703 of conductor 703 mapping 667 |--> -zeta18^3 + 1, 39 |--> zeta18^4 , twist= 1 , order= 18 , f= 3 
+lambda= 2 , odd Dirichlet character modulo 703 of conductor 703 mapping 667 |--> zeta6, 39 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 703 of conductor 703 mapping 667 |--> zeta6, 39 |--> zeta6 - 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 703 of conductor 703 mapping 667 |--> -1, 39 |--> zeta6 - 1 , twist= 3 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 703 of conductor 703 mapping 667 |--> zeta6 - 1, 39 |--> -1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 703 of conductor 703 mapping 667 |--> -zeta18^3 + 1, 39 |--> -zeta18 , twist= 1 , order= 18 , f= 3 
+lambda= 1 , odd Dirichlet character modulo 703 of conductor 703 mapping 667 |--> zeta6, 39 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 703 of conductor 703 mapping 667 |--> -zeta6, 39 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 703 of conductor 703 mapping 667 |--> -zeta18^3 + 1, 39 |--> -zeta18^4 + zeta18 , twist= 1 , order= 18 , f= 3 
+lambda= 2 , even Dirichlet character modulo 709 of conductor 709 mapping 2 |--> zeta3 , twist= 4 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 711 of conductor 711 mapping 317 |--> zeta6, 82 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 711 of conductor 711 mapping 317 |--> zeta6, 82 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 711 of conductor 711 mapping 317 |--> zeta6 - 1, 82 |--> zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 711 of conductor 711 mapping 317 |--> -zeta6, 82 |--> zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 711 of conductor 711 mapping 317 |--> -zeta6 + 1, 82 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 711 of conductor 711 mapping 317 |--> zeta3, 82 |--> zeta3 , twist= 4 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 711 of conductor 711 mapping 317 |--> -zeta3 - 1, 82 |--> zeta3 , twist= 4 , order= 3 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 711 of conductor 711 mapping 317 |--> -zeta6 + 1, 82 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 , trivial zero
+lambda= 1 , odd Dirichlet character modulo 711 of conductor 711 mapping 317 |--> zeta6 - 1, 82 |--> -1 , twist= 1 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 711 of conductor 711 mapping 317 |--> zeta6, 82 |--> -zeta6 , twist= 1 , order= 6 , f= 1 , trivial zero
+lambda= 1 , even Dirichlet character modulo 711 of conductor 711 mapping 317 |--> -zeta3 - 1, 82 |--> -zeta3 - 1 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 711 of conductor 711 mapping 317 |--> -zeta6 + 1, 82 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 711 of conductor 711 mapping 317 |--> zeta6 - 1, 82 |--> -zeta6 + 1 , twist= 1 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 711 of conductor 711 mapping 317 |--> -zeta6 + 1, 82 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 713 of conductor 713 mapping 373 |--> -1, 530 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 715 of conductor 715 mapping 287 |--> -1, 651 |--> -1, 496 |--> zeta12 , twist= 4 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 715 of conductor 715 mapping 287 |--> -1, 651 |--> -1, 496 |--> zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 715 of conductor 715 mapping 287 |--> -1, 651 |--> -1, 496 |--> zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 715 of conductor 715 mapping 287 |--> -1, 651 |--> -1, 496 |--> -1 , twist= 3 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 715 of conductor 715 mapping 287 |--> -1, 651 |--> -1, 496 |--> -zeta12 , twist= 4 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 715 of conductor 715 mapping 287 |--> -1, 651 |--> -1, 496 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 716 of conductor 716 mapping 359 |--> -1, 181 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 720 of conductor 720 mapping 271 |--> -1, 181 |--> zeta12^3, 641 |--> zeta12^2, 577 |--> zeta12^3 , twist= 5 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 720 of conductor 720 mapping 271 |--> -1, 181 |--> -zeta12^3, 641 |--> zeta12^2 - 1, 577 |--> zeta12^3 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 720 of conductor 720 mapping 271 |--> -1, 181 |--> -zeta12^3, 641 |--> zeta12^2, 577 |--> -zeta12^3 , twist= 5 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 720 of conductor 720 mapping 271 |--> -1, 181 |--> zeta12^3, 641 |--> zeta12^2 - 1, 577 |--> -zeta12^3 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 723 of conductor 723 mapping 242 |--> -1, 7 |--> zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 723 of conductor 723 mapping 242 |--> -1, 7 |--> zeta48^11 , twist= 2 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 723 of conductor 723 mapping 242 |--> -1, 7 |--> -zeta48^5 , twist= 2 , order= 48 , f= 2 
+lambda= 2 , odd Dirichlet character modulo 723 of conductor 723 mapping 242 |--> -1, 7 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 724 of conductor 724 mapping 363 |--> -1, 545 |--> zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 724 of conductor 724 mapping 363 |--> -1, 545 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 724 of conductor 724 mapping 363 |--> -1, 545 |--> -zeta6 + 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 731 of conductor 731 mapping 173 |--> zeta12^3, 562 |--> zeta12^2 , twist= 3 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 731 of conductor 731 mapping 173 |--> -zeta12^3, 562 |--> zeta12^2 , twist= 3 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 731 of conductor 731 mapping 173 |--> -1, 562 |--> zeta6 - 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 731 of conductor 731 mapping 173 |--> zeta8^3, 562 |--> -1 , twist= 5 , order= 8 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 731 of conductor 731 mapping 173 |--> -zeta8, 562 |--> -1 , twist= 5 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 731 of conductor 731 mapping 173 |--> zeta48^3, 562 |--> -zeta48^8 + 1 , twist= 2 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 731 of conductor 731 mapping 173 |--> zeta48^13 - zeta48^5, 562 |--> -zeta48^8 + 1 , twist= 2 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 732 of conductor 732 mapping 367 |--> -1, 245 |--> -1, 673 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 733 of conductor 733 mapping 6 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 733 of conductor 733 mapping 6 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 733 of conductor 733 mapping 6 |--> zeta3 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 733 of conductor 733 mapping 6 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 737 of conductor 737 mapping 68 |--> -1, 672 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 737 of conductor 737 mapping 68 |--> -1, 672 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 739 of conductor 739 mapping 3 |--> zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 739 of conductor 739 mapping 3 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 739 of conductor 739 mapping 3 |--> -1 , twist= 3 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 740 of conductor 740 mapping 371 |--> -1, 297 |--> -zeta12^3, 261 |--> zeta12^3 - zeta12 , twist= 5 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 740 of conductor 740 mapping 371 |--> -1, 297 |--> -1, 261 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 740 of conductor 740 mapping 371 |--> -1, 297 |--> -1, 261 |--> -zeta6 + 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 740 of conductor 740 mapping 371 |--> -1, 297 |--> zeta12^3, 261 |--> -zeta12^3 + zeta12 , twist= 5 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> zeta6, 40 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> zeta6, 40 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> -zeta6, 40 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> zeta6, 40 |--> zeta6 - 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> -zeta6, 40 |--> zeta6 - 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> -zeta6 + 1, 40 |--> zeta6 - 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> -1, 40 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> -1, 40 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> -zeta6, 40 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> -zeta6 + 1, 40 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> zeta6, 40 |--> -zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> -1, 40 |--> -zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> -zeta6, 40 |--> -zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> -zeta6, 40 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 741 of conductor 741 mapping 248 |--> -1, 457 |--> zeta6 - 1, 40 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 743 of conductor 743 mapping 5 |--> -1 , twist= 1 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 744 of conductor 744 mapping 559 |--> 1, 373 |--> -1, 497 |--> -1, 313 |--> zeta6 - 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 744 of conductor 744 mapping 559 |--> 1, 373 |--> -1, 497 |--> -1, 313 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 745 of conductor 745 mapping 597 |--> -1, 151 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 747 of conductor 747 mapping 416 |--> -zeta6, 334 |--> -1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 747 of conductor 747 mapping 416 |--> -zeta6, 334 |--> -1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 747 of conductor 747 mapping 416 |--> -zeta6 + 1, 334 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 748 of conductor 748 mapping 375 |--> -1, 409 |--> zeta80^24 - zeta80^16 + zeta80^8 - 1, 309 |--> zeta80^15 , twist= 4 , order= 80 , f= 4 
+lambda= 1 , even Dirichlet character modulo 748 of conductor 748 mapping 375 |--> -1, 409 |--> -zeta80^8, 309 |--> zeta80^15 , twist= 4 , order= 80 , f= 4 
+lambda= 1 , even Dirichlet character modulo 748 of conductor 748 mapping 375 |--> -1, 409 |--> zeta80^16, 309 |--> zeta80^25 , twist= 4 , order= 80 , f= 4 
+lambda= 1 , even Dirichlet character modulo 748 of conductor 748 mapping 375 |--> -1, 409 |--> -zeta80^24, 309 |--> zeta80^25 , twist= 4 , order= 80 , f= 4 
+lambda= 1 , even Dirichlet character modulo 755 of conductor 755 mapping 152 |--> zeta12^3, 6 |--> -zeta12^2 + 1 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 755 of conductor 755 mapping 152 |--> -zeta12^3, 6 |--> -zeta12^2 + 1 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 757 of conductor 757 mapping 2 |--> -zeta3 - 1 , twist= 0 , order= 3 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 759 of conductor 759 mapping 254 |--> -1, 277 |--> -1, 166 |--> -1 , twist= 1 , order= 2 , f= 1 , trivial zero
+lambda= 1 , odd Dirichlet character modulo 760 of conductor 760 mapping 191 |--> -1, 381 |--> -1, 457 |--> -1, 401 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 765 of conductor 765 mapping 596 |--> zeta48^8 - 1, 307 |--> -zeta48^12, 496 |--> zeta48^3 , twist= 4 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 765 of conductor 765 mapping 596 |--> zeta48^8 - 1, 307 |--> -1, 496 |--> zeta48^9 , twist= 1 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 765 of conductor 765 mapping 596 |--> zeta48^8 - 1, 307 |--> -zeta48^12, 496 |--> zeta48^9 , twist= 2 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 765 of conductor 765 mapping 596 |--> zeta12^2, 307 |--> zeta12^3, 496 |--> zeta12^3 , twist= 4 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 765 of conductor 765 mapping 596 |--> -zeta12^2 + 1, 307 |--> zeta12^3, 496 |--> zeta12^3 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 765 of conductor 765 mapping 596 |--> zeta48^8 - 1, 307 |--> zeta48^12, 496 |--> zeta48^15 , twist= 2 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 765 of conductor 765 mapping 596 |--> zeta48^8 - 1, 307 |--> -1, 496 |--> zeta48^15 , twist= 1 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 765 of conductor 765 mapping 596 |--> zeta24^4, 307 |--> -1, 496 |--> zeta24^5 - zeta24 , twist= 5 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 765 of conductor 765 mapping 596 |--> zeta48^8 - 1, 307 |--> zeta48^12, 496 |--> zeta48^13 - zeta48^5 , twist= 4 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 765 of conductor 765 mapping 596 |--> zeta6, 307 |--> -1, 496 |--> -1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 765 of conductor 765 mapping 596 |--> -zeta6 + 1, 307 |--> -1, 496 |--> -1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 765 of conductor 765 mapping 596 |--> zeta24^4, 307 |--> -1, 496 |--> -zeta24^3 , twist= 5 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 765 of conductor 765 mapping 596 |--> zeta12^2, 307 |--> -zeta12^3, 496 |--> -zeta12^3 , twist= 4 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 765 of conductor 765 mapping 596 |--> -zeta12^2 + 1, 307 |--> -zeta12^3, 496 |--> -zeta12^3 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 767 of conductor 767 mapping 119 |--> -zeta6, 651 |--> -1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 767 of conductor 767 mapping 119 |--> -zeta6 + 1, 651 |--> -1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 769 of conductor 769 mapping 11 |--> zeta3 , twist= 0 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 769 of conductor 769 mapping 11 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 771 of conductor 771 mapping 515 |--> -1, 517 |--> -1 , twist= 3 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 772 of conductor 772 mapping 387 |--> -1, 5 |--> zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 772 of conductor 772 mapping 387 |--> -1, 5 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 772 of conductor 772 mapping 387 |--> -1, 5 |--> zeta6 - 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 772 of conductor 772 mapping 387 |--> -1, 5 |--> -1 , twist= 3 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 772 of conductor 772 mapping 387 |--> -1, 5 |--> -zeta16 , twist= 5 , order= 16 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 772 of conductor 772 mapping 387 |--> -1, 5 |--> -zeta16^7 , twist= 5 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 776 of conductor 776 mapping 583 |--> 1, 389 |--> -1, 393 |--> zeta24^5 , twist= 2 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 776 of conductor 776 mapping 583 |--> -1, 389 |--> -1, 393 |--> zeta48^11 , twist= 1 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 776 of conductor 776 mapping 583 |--> 1, 389 |--> -1, 393 |--> zeta6 - 1 , twist= 4 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 776 of conductor 776 mapping 583 |--> -1, 389 |--> -1, 393 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 776 of conductor 776 mapping 583 |--> 1, 389 |--> -1, 393 |--> zeta24^7 - zeta24^3 , twist= 2 , order= 24 , f= 2 
+lambda= 3 , odd Dirichlet character modulo 776 of conductor 776 mapping 583 |--> -1, 389 |--> -1, 393 |--> -1 , twist= 1 , order= 2 , f= 1 , trivial zero
+lambda= 1 , odd Dirichlet character modulo 776 of conductor 776 mapping 583 |--> -1, 389 |--> -1, 393 |--> -zeta48^5 , twist= 1 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 776 of conductor 776 mapping 583 |--> -1, 389 |--> -1, 393 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 776 of conductor 776 mapping 583 |--> -1, 389 |--> -1, 393 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 776 of conductor 776 mapping 583 |--> 1, 389 |--> -1, 393 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 776 of conductor 776 mapping 583 |--> -1, 389 |--> -1, 393 |--> -zeta6 + 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 779 of conductor 779 mapping 534 |--> zeta6 - 1, 457 |--> -1 , twist= 2 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 779 of conductor 779 mapping 534 |--> -zeta6 + 1, 457 |--> -1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 780 of conductor 780 mapping 391 |--> -1, 521 |--> -1, 157 |--> -1, 301 |--> zeta6 - 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 780 of conductor 780 mapping 391 |--> -1, 521 |--> -1, 157 |--> -1, 301 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 785 of conductor 785 mapping 472 |--> -1, 476 |--> zeta4 , twist= 3 , order= 4 , f= 2 
+lambda= 1 , even Dirichlet character modulo 785 of conductor 785 mapping 472 |--> -1, 476 |--> zeta6 - 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 785 of conductor 785 mapping 472 |--> -zeta12^3, 476 |--> zeta12^3 - zeta12 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 785 of conductor 785 mapping 472 |--> -1, 476 |--> -1 , twist= 4 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 785 of conductor 785 mapping 472 |--> -1, 476 |--> -zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 785 of conductor 785 mapping 472 |--> -1, 476 |--> -zeta4 , twist= 3 , order= 4 , f= 2 
+lambda= 1 , even Dirichlet character modulo 785 of conductor 785 mapping 472 |--> -1, 476 |--> -zeta6 + 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 785 of conductor 785 mapping 472 |--> zeta12^3, 476 |--> -zeta12^3 + zeta12 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 787 of conductor 787 mapping 2 |--> -zeta3 - 1 , twist= 4 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 792 of conductor 792 mapping 199 |--> 1, 397 |--> -1, 353 |--> zeta6, 145 |--> -1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 792 of conductor 792 mapping 199 |--> -1, 397 |--> -1, 353 |--> -zeta6, 145 |--> -1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 793 of conductor 793 mapping 184 |--> -zeta12^2, 612 |--> zeta12 , twist= 1 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 793 of conductor 793 mapping 184 |--> -1, 612 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 793 of conductor 793 mapping 184 |--> -zeta4, 612 |--> zeta4 , twist= 2 , order= 4 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 793 of conductor 793 mapping 184 |--> -zeta12^2, 612 |--> -zeta12 , twist= 1 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 793 of conductor 793 mapping 184 |--> -1, 612 |--> -zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 793 of conductor 793 mapping 184 |--> zeta4, 612 |--> -zeta4 , twist= 2 , order= 4 , f= 2 
+lambda= 2 , even Dirichlet character modulo 793 of conductor 793 mapping 184 |--> zeta6 - 1, 612 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 793 of conductor 793 mapping 184 |--> -1, 612 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 796 of conductor 796 mapping 399 |--> -1, 401 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 797 of conductor 797 mapping 2 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 799 of conductor 799 mapping 377 |--> zeta8^3, 52 |--> -1 , twist= 5 , order= 8 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 799 of conductor 799 mapping 377 |--> -zeta8, 52 |--> -1 , twist= 5 , order= 8 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 800 of conductor 800 mapping 351 |--> -1, 101 |--> zeta40^5, 577 |--> zeta40^8 , twist= 3 , order= 40 , f= 4 
+lambda= 1 , odd Dirichlet character modulo 800 of conductor 800 mapping 351 |--> -1, 101 |--> -zeta40^15, 577 |--> zeta40^12 - zeta40^8 + zeta40^4 - 1 , twist= 3 , order= 40 , f= 4 
+lambda= 1 , odd Dirichlet character modulo 800 of conductor 800 mapping 351 |--> -1, 101 |--> -zeta40^15, 577 |--> -zeta40^4 , twist= 3 , order= 40 , f= 4 
+lambda= 1 , odd Dirichlet character modulo 800 of conductor 800 mapping 351 |--> -1, 101 |--> zeta40^5, 577 |--> -zeta40^12 , twist= 3 , order= 40 , f= 4 
+lambda= 1 , even Dirichlet character modulo 801 of conductor 801 mapping 713 |--> zeta6 - 1, 181 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 801 of conductor 801 mapping 713 |--> -zeta6 + 1, 181 |--> -1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 801 of conductor 801 mapping 713 |--> -zeta6 + 1, 181 |--> -1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 803 of conductor 803 mapping 585 |--> -1, 78 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 804 of conductor 804 mapping 403 |--> -1, 269 |--> -1, 337 |--> -zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 807 of conductor 807 mapping 539 |--> -1, 271 |--> -1 , twist= 1 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 808 of conductor 808 mapping 607 |--> 1, 405 |--> -1, 305 |--> -1 , twist= 4 , order= 2 , f= 1 
+lambda= 2 , even Dirichlet character modulo 809 of conductor 809 mapping 3 |--> -1 , twist= 4 , order= 2 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 811 of conductor 811 mapping 3 |--> zeta6 , twist= 1 , order= 6 , f= 1 , trivial zero
+lambda= 1 , odd Dirichlet character modulo 815 of conductor 815 mapping 327 |--> -1, 491 |--> zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 815 of conductor 815 mapping 327 |--> -1, 491 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 815 of conductor 815 mapping 327 |--> -1, 491 |--> -1 , twist= 3 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 815 of conductor 815 mapping 327 |--> -1, 491 |--> -zeta6 + 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 816 of conductor 816 mapping 511 |--> 1, 613 |--> zeta16^4, 545 |--> -1, 241 |--> zeta16 , twist= 4 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 816 of conductor 816 mapping 511 |--> 1, 613 |--> -zeta16^4, 545 |--> -1, 241 |--> zeta16^7 , twist= 4 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 817 of conductor 817 mapping 173 |--> zeta6, 476 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 817 of conductor 817 mapping 173 |--> -zeta6 + 1, 476 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 817 of conductor 817 mapping 173 |--> -zeta6 + 1, 476 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 817 of conductor 817 mapping 173 |--> -1, 476 |--> zeta6 - 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 817 of conductor 817 mapping 173 |--> zeta6, 476 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 817 of conductor 817 mapping 173 |--> zeta6 - 1, 476 |--> -1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 817 of conductor 817 mapping 173 |--> -1, 476 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 817 of conductor 817 mapping 173 |--> -1, 476 |--> -1 , twist= 4 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 817 of conductor 817 mapping 173 |--> -zeta6, 476 |--> -1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 817 of conductor 817 mapping 173 |--> -zeta6, 476 |--> -1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 817 of conductor 817 mapping 173 |--> -zeta3 - 1, 476 |--> -zeta3 - 1 , twist= 0 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 817 of conductor 817 mapping 173 |--> -zeta3 - 1, 476 |--> -zeta3 - 1 , twist= 2 , order= 3 , f= 1 
+lambda= 2 , even Dirichlet character modulo 817 of conductor 817 mapping 173 |--> -zeta3 - 1, 476 |--> -zeta3 - 1 , twist= 4 , order= 3 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 817 of conductor 817 mapping 173 |--> -zeta6 + 1, 476 |--> -zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 817 of conductor 817 mapping 173 |--> -zeta6 + 1, 476 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 820 of conductor 820 mapping 411 |--> -1, 657 |--> -1, 621 |--> zeta8^3 , twist= 2 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 820 of conductor 820 mapping 411 |--> -1, 657 |--> -1, 621 |--> zeta8^3 , twist= 4 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 820 of conductor 820 mapping 411 |--> -1, 657 |--> -1, 621 |--> -zeta8 , twist= 2 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 820 of conductor 820 mapping 411 |--> -1, 657 |--> -1, 621 |--> -zeta8 , twist= 4 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 823 of conductor 823 mapping 3 |--> -zeta3 - 1 , twist= 0 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 823 of conductor 823 mapping 3 |--> -zeta3 - 1 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 824 of conductor 824 mapping 207 |--> 1, 413 |--> -1, 417 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 824 of conductor 824 mapping 207 |--> -1, 413 |--> -1, 417 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 824 of conductor 824 mapping 207 |--> -1, 413 |--> -1, 417 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 824 of conductor 824 mapping 207 |--> -1, 413 |--> -1, 417 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 824 of conductor 824 mapping 207 |--> 1, 413 |--> -1, 417 |--> -zeta6 + 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 827 of conductor 827 mapping 2 |--> -1 , twist= 1 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 827 of conductor 827 mapping 2 |--> -1 , twist= 3 , order= 2 , f= 1 
+lambda= 3 , even Dirichlet character modulo 828 of conductor 828 mapping 415 |--> -1, 461 |--> zeta6 - 1, 649 |--> -1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 829 of conductor 829 mapping 2 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 2 , even Dirichlet character modulo 829 of conductor 829 mapping 2 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 831 of conductor 831 mapping 278 |--> -1, 559 |--> -1 , twist= 1 , order= 2 , f= 1 , trivial zero
+lambda= 1 , odd Dirichlet character modulo 832 of conductor 832 mapping 703 |--> -1, 261 |--> -zeta48^3, 769 |--> zeta48^8 , twist= 5 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 832 of conductor 832 mapping 703 |--> -1, 261 |--> -zeta48^13 + zeta48^5, 769 |--> zeta48^8 , twist= 5 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 832 of conductor 832 mapping 703 |--> -1, 261 |--> zeta16, 769 |--> zeta16^4 , twist= 0 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 832 of conductor 832 mapping 703 |--> 1, 261 |--> -zeta48^3, 769 |--> zeta48^8 - 1 , twist= 4 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 832 of conductor 832 mapping 703 |--> 1, 261 |--> -zeta48^13 + zeta48^5, 769 |--> zeta48^8 - 1 , twist= 4 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 832 of conductor 832 mapping 703 |--> -1, 261 |--> zeta48^3, 769 |--> zeta48^12 - zeta48^4 , twist= 4 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 832 of conductor 832 mapping 703 |--> 1, 261 |--> zeta48^9, 769 |--> zeta48^12 - zeta48^4 , twist= 3 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 832 of conductor 832 mapping 703 |--> 1, 261 |--> zeta48^15, 769 |--> zeta48^12 - zeta48^4 , twist= 1 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 832 of conductor 832 mapping 703 |--> -1, 261 |--> -zeta48^13 + zeta48^5, 769 |--> zeta48^12 - zeta48^4 , twist= 4 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 832 of conductor 832 mapping 703 |--> -1, 261 |--> zeta16^7, 769 |--> -zeta16^4 , twist= 0 , order= 16 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 832 of conductor 832 mapping 703 |--> 1, 261 |--> zeta48^9, 769 |--> -zeta48^12 + zeta48^4 , twist= 1 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 832 of conductor 832 mapping 703 |--> 1, 261 |--> zeta48^15, 769 |--> -zeta48^12 + zeta48^4 , twist= 3 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 832 of conductor 832 mapping 703 |--> -1, 261 |--> zeta48^13 - zeta48^5, 769 |--> -zeta48^12 + zeta48^4 , twist= 4 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 832 of conductor 832 mapping 703 |--> -1, 261 |--> -zeta48^3, 769 |--> -zeta48^12 + zeta48^4 , twist= 4 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 835 of conductor 835 mapping 502 |--> -1, 506 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 836 of conductor 836 mapping 419 |--> -1, 761 |--> -1, 705 |--> zeta6 - 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 844 of conductor 844 mapping 423 |--> -1, 213 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 844 of conductor 844 mapping 423 |--> -1, 213 |--> -zeta6 + 1 , twist= 4 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 848 of conductor 848 mapping 319 |--> 1, 213 |--> -zeta4, 161 |--> zeta4 , twist= 1 , order= 4 , f= 2 , trivial zero
+lambda= 2 , odd Dirichlet character modulo 848 of conductor 848 mapping 319 |--> 1, 213 |--> zeta4, 161 |--> -zeta4 , twist= 1 , order= 4 , f= 2 , trivial zero
+lambda= 1 , even Dirichlet character modulo 849 of conductor 849 mapping 284 |--> -1, 286 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 851 of conductor 851 mapping 741 |--> -1, 668 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 851 of conductor 851 mapping 741 |--> -1, 668 |--> -zeta6 + 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 853 of conductor 853 mapping 2 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 853 of conductor 853 mapping 2 |--> zeta3 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 853 of conductor 853 mapping 2 |--> -1 , twist= 4 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 853 of conductor 853 mapping 2 |--> -zeta3 - 1 , twist= 4 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 853 of conductor 853 mapping 2 |--> -zeta6 + 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 855 of conductor 855 mapping 191 |--> zeta6 - 1, 172 |--> -1, 496 |--> zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 855 of conductor 855 mapping 191 |--> zeta6 - 1, 172 |--> -1, 496 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 855 of conductor 855 mapping 191 |--> -zeta6, 172 |--> -1, 496 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 855 of conductor 855 mapping 191 |--> zeta6, 172 |--> -1, 496 |--> zeta6 - 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 855 of conductor 855 mapping 191 |--> zeta6 - 1, 172 |--> -1, 496 |--> zeta6 - 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 855 of conductor 855 mapping 191 |--> -zeta6, 172 |--> -1, 496 |--> zeta6 - 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 855 of conductor 855 mapping 191 |--> -zeta6, 172 |--> -1, 496 |--> zeta6 - 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 855 of conductor 855 mapping 191 |--> zeta12^2 - 1, 172 |--> zeta12^3, 496 |--> -1 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 855 of conductor 855 mapping 191 |--> -zeta6 + 1, 172 |--> -1, 496 |--> -1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 855 of conductor 855 mapping 191 |--> zeta12^2 - 1, 172 |--> -zeta12^3, 496 |--> -1 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 855 of conductor 855 mapping 191 |--> -zeta6 + 1, 172 |--> -1, 496 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 855 of conductor 855 mapping 191 |--> -zeta6, 172 |--> -1, 496 |--> -zeta6 + 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 856 of conductor 856 mapping 215 |--> 1, 429 |--> -1, 537 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 856 of conductor 856 mapping 215 |--> -1, 429 |--> -1, 537 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 857 of conductor 857 mapping 3 |--> zeta8 , twist= 5 , order= 8 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 857 of conductor 857 mapping 3 |--> -zeta8^3 , twist= 5 , order= 8 , f= 2 
+lambda= 2 , odd Dirichlet character modulo 859 of conductor 859 mapping 2 |--> -1 , twist= 1 , order= 2 , f= 1 , trivial zero
+lambda= 1 , odd Dirichlet character modulo 860 of conductor 860 mapping 431 |--> -1, 517 |--> -1, 261 |--> zeta6 - 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 860 of conductor 860 mapping 431 |--> -1, 517 |--> -1, 261 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 860 of conductor 860 mapping 431 |--> -1, 517 |--> -1, 261 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 863 of conductor 863 mapping 5 |--> -1 , twist= 1 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 865 of conductor 865 mapping 347 |--> zeta4, 521 |--> zeta4 , twist= 2 , order= 4 , f= 2 
+lambda= 1 , even Dirichlet character modulo 865 of conductor 865 mapping 347 |--> -zeta4, 521 |--> -zeta4 , twist= 2 , order= 4 , f= 2 
+lambda= 1 , even Dirichlet character modulo 869 of conductor 869 mapping 475 |--> -1, 793 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 871 of conductor 871 mapping 470 |--> zeta6 - 1, 404 |--> zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 871 of conductor 871 mapping 470 |--> -1, 404 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 871 of conductor 871 mapping 470 |--> -1, 404 |--> -1 , twist= 3 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 871 of conductor 871 mapping 470 |--> -zeta6, 404 |--> -1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 871 of conductor 871 mapping 470 |--> zeta6, 404 |--> -zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 871 of conductor 871 mapping 470 |--> zeta3, 404 |--> -zeta3 - 1 , twist= 4 , order= 3 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 871 of conductor 871 mapping 470 |--> zeta6, 404 |--> -zeta6 + 1 , twist= 1 , order= 6 , f= 1 , trivial zero
+lambda= 2 , odd Dirichlet character modulo 871 of conductor 871 mapping 470 |--> -1, 404 |--> -zeta6 + 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 872 of conductor 872 mapping 655 |--> 1, 437 |--> -1, 769 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 872 of conductor 872 mapping 655 |--> 1, 437 |--> -1, 769 |--> zeta6 - 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 872 of conductor 872 mapping 655 |--> -1, 437 |--> -1, 769 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 872 of conductor 872 mapping 655 |--> 1, 437 |--> -1, 769 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 872 of conductor 872 mapping 655 |--> -1, 437 |--> -1, 769 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 873 of conductor 873 mapping 389 |--> zeta6, 199 |--> zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 873 of conductor 873 mapping 389 |--> -zeta6 + 1, 199 |--> zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 873 of conductor 873 mapping 389 |--> -zeta6 + 1, 199 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 873 of conductor 873 mapping 389 |--> zeta48^8 - 1, 199 |--> zeta48^9 , twist= 4 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 873 of conductor 873 mapping 389 |--> zeta48^8 - 1, 199 |--> zeta48^15 , twist= 4 , order= 48 , f= 2 
+lambda= 2 , odd Dirichlet character modulo 873 of conductor 873 mapping 389 |--> zeta6, 199 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 , trivial zero
+lambda= 2 , even Dirichlet character modulo 873 of conductor 873 mapping 389 |--> zeta3, 199 |--> zeta3 , twist= 0 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 873 of conductor 873 mapping 389 |--> -zeta3 - 1, 199 |--> zeta3 , twist= 4 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 873 of conductor 873 mapping 389 |--> -zeta48^8, 199 |--> zeta48^9 - zeta48 , twist= 0 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 873 of conductor 873 mapping 389 |--> -zeta48^8, 199 |--> zeta48^15 - zeta48^7 , twist= 0 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 873 of conductor 873 mapping 389 |--> zeta24^4, 199 |--> -zeta24 , twist= 5 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 873 of conductor 873 mapping 389 |--> zeta6, 199 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 873 of conductor 873 mapping 389 |--> zeta24^4, 199 |--> -zeta24^7 , twist= 5 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 873 of conductor 873 mapping 389 |--> zeta6 - 1, 199 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 873 of conductor 873 mapping 389 |--> -zeta6, 199 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 876 of conductor 876 mapping 439 |--> -1, 293 |--> -1, 589 |--> zeta24^5 , twist= 3 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 876 of conductor 876 mapping 439 |--> -1, 293 |--> -1, 589 |--> zeta8^3 , twist= 5 , order= 8 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 876 of conductor 876 mapping 439 |--> -1, 293 |--> -1, 589 |--> zeta24^7 - zeta24^3 , twist= 3 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 876 of conductor 876 mapping 439 |--> -1, 293 |--> -1, 589 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 876 of conductor 876 mapping 439 |--> -1, 293 |--> -1, 589 |--> -zeta8 , twist= 5 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 876 of conductor 876 mapping 439 |--> -1, 293 |--> -1, 589 |--> -zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 877 of conductor 877 mapping 2 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 877 of conductor 877 mapping 2 |--> zeta3 , twist= 2 , order= 3 , f= 1 
+lambda= 2 , even Dirichlet character modulo 877 of conductor 877 mapping 2 |--> -zeta3 - 1 , twist= 0 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 877 of conductor 877 mapping 2 |--> -zeta3 - 1 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 883 of conductor 883 mapping 2 |--> zeta3 , twist= 0 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 883 of conductor 883 mapping 2 |--> -zeta3 - 1 , twist= 0 , order= 3 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 883 of conductor 883 mapping 2 |--> -zeta6 + 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> -zeta48^8, 105 |--> zeta48^3 , twist= 0 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> -zeta24^2, 105 |--> zeta24^3 , twist= 0 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> -zeta12^2, 105 |--> zeta12^3 , twist= 5 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> -zeta48^8, 105 |--> zeta48^13 - zeta48^5 , twist= 0 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> zeta6, 105 |--> -1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> zeta6 - 1, 105 |--> -1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> zeta12^3 - zeta12, 105 |--> -1 , twist= 4 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> -zeta6, 105 |--> -1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> -zeta12^3 + zeta12, 105 |--> -1 , twist= 4 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> -zeta48^8, 105 |--> -zeta48^3 , twist= 4 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> zeta48^8 - 1, 105 |--> -zeta48^9 , twist= 0 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> -zeta12^2, 105 |--> -zeta12^3 , twist= 5 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> zeta48^8 - 1, 105 |--> -zeta48^15 , twist= 0 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> zeta24^2, 105 |--> -zeta24^5 + zeta24 , twist= 0 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 884 of conductor 884 mapping 443 |--> -1, 613 |--> -zeta48^8, 105 |--> -zeta48^13 + zeta48^5 , twist= 4 , order= 48 , f= 2 
+lambda= 2 , even Dirichlet character modulo 885 of conductor 885 mapping 296 |--> -1, 532 |--> -1, 61 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 888 of conductor 888 mapping 223 |--> -1, 445 |--> -1, 593 |--> -1, 409 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 888 of conductor 888 mapping 223 |--> 1, 445 |--> -1, 593 |--> -1, 409 |--> -zeta6 + 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 892 of conductor 892 mapping 447 |--> -1, 449 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 892 of conductor 892 mapping 447 |--> -1, 449 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 892 of conductor 892 mapping 447 |--> -1, 449 |--> zeta6 - 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 893 of conductor 893 mapping 800 |--> zeta6 - 1, 381 |--> -1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 897 of conductor 897 mapping 599 |--> -1, 691 |--> -1, 235 |--> -1 , twist= 4 , order= 2 , f= 1 
+lambda= 2 , even Dirichlet character modulo 897 of conductor 897 mapping 599 |--> -1, 691 |--> -zeta6, 235 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 899 of conductor 899 mapping 466 |--> -1, 871 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 899 of conductor 899 mapping 466 |--> -1, 871 |--> -zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 899 of conductor 899 mapping 466 |--> zeta12^3, 871 |--> -zeta12^2 + 1 , twist= 4 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 899 of conductor 899 mapping 466 |--> -zeta12^3, 871 |--> -zeta12^2 + 1 , twist= 4 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 901 of conductor 901 mapping 54 |--> -zeta8, 426 |--> zeta8^2 , twist= 5 , order= 8 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 901 of conductor 901 mapping 54 |--> zeta8^3, 426 |--> -zeta8^2 , twist= 5 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 904 of conductor 904 mapping 679 |--> 1, 453 |--> -1, 681 |--> zeta8^3 , twist= 4 , order= 8 , f= 2 
+lambda= 2 , even Dirichlet character modulo 904 of conductor 904 mapping 679 |--> 1, 453 |--> -1, 681 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 904 of conductor 904 mapping 679 |--> 1, 453 |--> -1, 681 |--> -zeta8 , twist= 4 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 905 of conductor 905 mapping 182 |--> -1, 726 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 905 of conductor 905 mapping 182 |--> -1, 726 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 905 of conductor 905 mapping 182 |--> -1, 726 |--> -zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 905 of conductor 905 mapping 182 |--> -1, 726 |--> -zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 905 of conductor 905 mapping 182 |--> -1, 726 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 907 of conductor 907 mapping 2 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 907 of conductor 907 mapping 2 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 907 of conductor 907 mapping 2 |--> -zeta6 + 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 907 of conductor 907 mapping 2 |--> -zeta6 + 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 909 of conductor 909 mapping 506 |--> -zeta6, 406 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 913 of conductor 913 mapping 167 |--> -1, 749 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 915 of conductor 915 mapping 611 |--> -1, 367 |--> -1, 856 |--> zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 915 of conductor 915 mapping 611 |--> -1, 367 |--> -1, 856 |--> zeta4 , twist= 0 , order= 4 , f= 2 
+lambda= 1 , even Dirichlet character modulo 915 of conductor 915 mapping 611 |--> -1, 367 |--> zeta12^3, 856 |--> zeta12^2 - 1 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 915 of conductor 915 mapping 611 |--> -1, 367 |--> -zeta12^3, 856 |--> zeta12^2 - 1 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 915 of conductor 915 mapping 611 |--> -1, 367 |--> -1, 856 |--> zeta12^3 - zeta12 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 915 of conductor 915 mapping 611 |--> -1, 367 |--> -zeta12^3, 856 |--> zeta12^3 - zeta12 , twist= 1 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 915 of conductor 915 mapping 611 |--> -1, 367 |--> zeta4, 856 |--> -1 , twist= 2 , order= 4 , f= 2 
+lambda= 1 , even Dirichlet character modulo 915 of conductor 915 mapping 611 |--> -1, 367 |--> -zeta4, 856 |--> -1 , twist= 2 , order= 4 , f= 2 
+lambda= 1 , even Dirichlet character modulo 915 of conductor 915 mapping 611 |--> -1, 367 |--> -1, 856 |--> -zeta4 , twist= 0 , order= 4 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 915 of conductor 915 mapping 611 |--> -1, 367 |--> zeta12^3, 856 |--> -zeta12^3 + zeta12 , twist= 1 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 915 of conductor 915 mapping 611 |--> -1, 367 |--> -1, 856 |--> -zeta12^3 + zeta12 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 916 of conductor 916 mapping 459 |--> -1, 693 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 919 of conductor 919 mapping 7 |--> -zeta6 + 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 921 of conductor 921 mapping 308 |--> -1, 619 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 921 of conductor 921 mapping 308 |--> -1, 619 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 927 of conductor 927 mapping 722 |--> -zeta6, 829 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 927 of conductor 927 mapping 722 |--> -zeta6 + 1, 829 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 927 of conductor 927 mapping 722 |--> -zeta6 + 1, 829 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 927 of conductor 927 mapping 722 |--> zeta6, 829 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 927 of conductor 927 mapping 722 |--> -zeta6, 829 |--> -1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 927 of conductor 927 mapping 722 |--> zeta6, 829 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 927 of conductor 927 mapping 722 |--> -zeta6 + 1, 829 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 928 of conductor 928 mapping 639 |--> -1, 581 |--> -zeta8^3, 321 |--> zeta8^2 , twist= 0 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 928 of conductor 928 mapping 639 |--> -1, 581 |--> zeta8, 321 |--> -zeta8^2 , twist= 0 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 929 of conductor 929 mapping 3 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 929 of conductor 929 mapping 3 |--> -zeta16 , twist= 0 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 929 of conductor 929 mapping 3 |--> -zeta16^7 , twist= 0 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 932 of conductor 932 mapping 467 |--> -1, 469 |--> zeta8 , twist= 4 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 932 of conductor 932 mapping 467 |--> -1, 469 |--> -zeta8^3 , twist= 4 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 935 of conductor 935 mapping 562 |--> -zeta4, 596 |--> -1, 496 |--> zeta4 , twist= 4 , order= 4 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 935 of conductor 935 mapping 562 |--> -1, 596 |--> -1, 496 |--> -1 , twist= 1 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 935 of conductor 935 mapping 562 |--> -1, 596 |--> -1, 496 |--> -zeta16 , twist= 0 , order= 16 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 935 of conductor 935 mapping 562 |--> -zeta16^4, 596 |--> -1, 496 |--> -zeta16^3 , twist= 3 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 935 of conductor 935 mapping 562 |--> zeta4, 596 |--> -1, 496 |--> -zeta4 , twist= 4 , order= 4 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 935 of conductor 935 mapping 562 |--> zeta16^4, 596 |--> -1, 496 |--> -zeta16^5 , twist= 3 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 935 of conductor 935 mapping 562 |--> -1, 596 |--> -1, 496 |--> -zeta16^7 , twist= 0 , order= 16 , f= 2 
+lambda= 2 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> -zeta6, 145 |--> zeta6 , twist= 1 , order= 6 , f= 1 , trivial zero
+lambda= 1 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> -zeta6 + 1, 145 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> zeta12^2 - 1, 145 |--> zeta12^3 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> zeta6, 145 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> zeta6 - 1, 145 |--> zeta6 - 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> -zeta6, 145 |--> zeta6 - 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> -zeta6 + 1, 145 |--> zeta6 - 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> zeta6, 145 |--> -1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> zeta6, 145 |--> -1 , twist= 5 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> zeta6, 145 |--> -1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> zeta6, 145 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> zeta6 - 1, 145 |--> -1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> zeta6 - 1, 145 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> zeta6 - 1, 145 |--> -1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> -zeta6, 145 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> -zeta6, 145 |--> -1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> -zeta6 + 1, 145 |--> -1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> zeta6, 145 |--> -zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> zeta6 - 1, 145 |--> -zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> -zeta6, 145 |--> -zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> -zeta6 + 1, 145 |--> -zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> zeta12^2 - 1, 145 |--> -zeta12^3 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> zeta6, 145 |--> -zeta6 + 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> zeta6, 145 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> 1, 469 |--> -1, 209 |--> zeta6 - 1, 145 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> zeta6 - 1, 145 |--> -zeta6 + 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 936 of conductor 936 mapping 703 |--> -1, 469 |--> -1, 209 |--> -zeta6 + 1, 145 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 937 of conductor 937 mapping 5 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 937 of conductor 937 mapping 5 |--> zeta3 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 937 of conductor 937 mapping 5 |--> zeta12^3 - zeta12 , twist= 4 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 937 of conductor 937 mapping 5 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 937 of conductor 937 mapping 5 |--> -zeta12^3 + zeta12 , twist= 4 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 939 of conductor 939 mapping 314 |--> -1, 10 |--> zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 4 , odd Dirichlet character modulo 939 of conductor 939 mapping 314 |--> -1, 10 |--> zeta6 - 1 , twist= 3 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 939 of conductor 939 mapping 314 |--> -1, 10 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 939 of conductor 939 mapping 314 |--> -1, 10 |--> -zeta24 , twist= 2 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 939 of conductor 939 mapping 314 |--> -1, 10 |--> -zeta24^7 , twist= 2 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 943 of conductor 943 mapping 534 |--> -1, 47 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 947 of conductor 947 mapping 2 |--> -1 , twist= 3 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 948 of conductor 948 mapping 475 |--> -1, 317 |--> -1, 793 |--> zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 948 of conductor 948 mapping 475 |--> -1, 317 |--> -1, 793 |--> -zeta6 + 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -zeta24^2, 443 |--> zeta24 , twist= 0 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> zeta8^2, 443 |--> zeta8 , twist= 4 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> zeta6, 443 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> zeta6, 443 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -zeta6, 443 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -zeta24^4, 443 |--> zeta24^5 , twist= 5 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -1, 443 |--> zeta18^4 , twist= 0 , order= 18 , f= 3 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> zeta24^2, 443 |--> zeta24^7 , twist= 0 , order= 24 , f= 2 
+lambda= 2 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> zeta3, 443 |--> zeta3 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -1, 443 |--> zeta6 - 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -zeta6 + 1, 443 |--> zeta6 - 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -zeta24^6 + zeta24^2, 443 |--> zeta24^5 - zeta24 , twist= 4 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -zeta12^2, 443 |--> zeta12^3 - zeta12 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -zeta24^4, 443 |--> zeta24^7 - zeta24^3 , twist= 5 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -zeta6, 443 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -zeta6 + 1, 443 |--> -1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -1, 443 |--> -zeta18 , twist= 0 , order= 18 , f= 3 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> zeta24^6 - zeta24^2, 443 |--> -zeta24^3 , twist= 4 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> zeta3, 443 |--> -zeta3 - 1 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 949 of conductor 949 mapping 366 |--> zeta24^4, 443 |--> -zeta24^5 , twist= 1 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> zeta6, 443 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -zeta8^2, 443 |--> -zeta8^3 , twist= 4 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -1, 443 |--> -zeta18^4 + zeta18 , twist= 0 , order= 18 , f= 3 
+lambda= 1 , even Dirichlet character modulo 949 of conductor 949 mapping 366 |--> -zeta12^2, 443 |--> -zeta12^3 + zeta12 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 949 of conductor 949 mapping 366 |--> zeta24^4, 443 |--> -zeta24^7 + zeta24^3 , twist= 1 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 955 of conductor 955 mapping 192 |--> -1, 401 |--> -1 , twist= 3 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 957 of conductor 957 mapping 320 |--> -1, 871 |--> -1, 727 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 960 of conductor 960 mapping 511 |--> -1, 901 |--> zeta16^7, 641 |--> -1, 577 |--> zeta16^4 , twist= 1 , order= 16 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 960 of conductor 960 mapping 511 |--> -1, 901 |--> zeta16, 641 |--> -1, 577 |--> -zeta16^4 , twist= 1 , order= 16 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 963 of conductor 963 mapping 857 |--> zeta6 - 1, 109 |--> -1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 963 of conductor 963 mapping 857 |--> -zeta6 + 1, 109 |--> -1 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 963 of conductor 963 mapping 857 |--> -zeta6 + 1, 109 |--> -1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 964 of conductor 964 mapping 483 |--> -1, 489 |--> zeta48^5 , twist= 0 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 964 of conductor 964 mapping 483 |--> -1, 489 |--> zeta8 , twist= 5 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 964 of conductor 964 mapping 483 |--> -1, 489 |--> zeta48^9 - zeta48 , twist= 2 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 964 of conductor 964 mapping 483 |--> -1, 489 |--> zeta48^15 - zeta48^7 , twist= 2 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 964 of conductor 964 mapping 483 |--> -1, 489 |--> -zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 964 of conductor 964 mapping 483 |--> -1, 489 |--> -zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 964 of conductor 964 mapping 483 |--> -1, 489 |--> -zeta48^11 , twist= 0 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 964 of conductor 964 mapping 483 |--> -1, 489 |--> -zeta6 + 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 964 of conductor 964 mapping 483 |--> -1, 489 |--> -zeta8^3 , twist= 5 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -1, 391 |--> zeta48 , twist= 2 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 965 of conductor 965 mapping 387 |--> zeta24^6, 391 |--> zeta24 , twist= 1 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -1, 391 |--> zeta48^7 , twist= 2 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 965 of conductor 965 mapping 387 |--> zeta24^6, 391 |--> zeta24^5 , twist= 5 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -1, 391 |--> zeta4 , twist= 0 , order= 4 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -zeta24^6, 391 |--> zeta24^7 , twist= 1 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 965 of conductor 965 mapping 387 |--> zeta12^3, 391 |--> zeta12^3 - zeta12 , twist= 3 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -zeta24^6, 391 |--> zeta24^7 - zeta24^3 , twist= 5 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 965 of conductor 965 mapping 387 |--> zeta48^12, 391 |--> -zeta48 , twist= 5 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -1, 391 |--> -zeta24 , twist= 2 , order= 24 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -zeta48^12, 391 |--> -zeta48^7 , twist= 5 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -1, 391 |--> -zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -1, 391 |--> -zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -1, 391 |--> -zeta4 , twist= 0 , order= 4 , f= 2 
+lambda= 1 , even Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -1, 391 |--> -zeta24^7 , twist= 2 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -1, 391 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 965 of conductor 965 mapping 387 |--> zeta48^12, 391 |--> -zeta48^9 + zeta48 , twist= 5 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -zeta48^12, 391 |--> -zeta48^9 + zeta48 , twist= 5 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -zeta12^3, 391 |--> -zeta12^3 + zeta12 , twist= 3 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 965 of conductor 965 mapping 387 |--> zeta48^12, 391 |--> -zeta48^15 + zeta48^7 , twist= 5 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 965 of conductor 965 mapping 387 |--> -zeta48^12, 391 |--> -zeta48^15 + zeta48^7 , twist= 5 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 967 of conductor 967 mapping 5 |--> -1 , twist= 3 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 967 of conductor 967 mapping 5 |--> -zeta3 - 1 , twist= 0 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 969 of conductor 969 mapping 647 |--> -1, 343 |--> -1, 154 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 969 of conductor 969 mapping 647 |--> -1, 343 |--> zeta48^3, 154 |--> zeta48^8 - 1 , twist= 4 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 969 of conductor 969 mapping 647 |--> -1, 343 |--> zeta48^13 - zeta48^5, 154 |--> zeta48^8 - 1 , twist= 4 , order= 48 , f= 2 
+lambda= 3 , odd Dirichlet character modulo 969 of conductor 969 mapping 647 |--> -1, 343 |--> -1, 154 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 969 of conductor 969 mapping 647 |--> -1, 343 |--> zeta16^3, 154 |--> -1 , twist= 3 , order= 16 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 969 of conductor 969 mapping 647 |--> -1, 343 |--> zeta16^5, 154 |--> -1 , twist= 3 , order= 16 , f= 2 
+lambda= 1 , even Dirichlet character modulo 969 of conductor 969 mapping 647 |--> -1, 343 |--> -1, 154 |--> -1 , twist= 4 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 969 of conductor 969 mapping 647 |--> -1, 343 |--> zeta48^3, 154 |--> -zeta48^8 + 1 , twist= 1 , order= 48 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 969 of conductor 969 mapping 647 |--> -1, 343 |--> zeta48^13 - zeta48^5, 154 |--> -zeta48^8 + 1 , twist= 1 , order= 48 , f= 2 
+lambda= 1 , even Dirichlet character modulo 969 of conductor 969 mapping 647 |--> -1, 343 |--> -1, 154 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 977 of conductor 977 mapping 3 |--> -zeta16^3 , twist= 5 , order= 16 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 977 of conductor 977 mapping 3 |--> -zeta16^5 , twist= 5 , order= 16 , f= 2 
+lambda= 2 , odd Dirichlet character modulo 979 of conductor 979 mapping 90 |--> -1, 804 |--> -1 , twist= 1 , order= 2 , f= 1 , trivial zero
+lambda= 1 , odd Dirichlet character modulo 979 of conductor 979 mapping 90 |--> -1, 804 |--> -1 , twist= 3 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 981 of conductor 981 mapping 110 |--> zeta6 - 1, 442 |--> zeta6 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 981 of conductor 981 mapping 110 |--> -zeta6, 442 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 981 of conductor 981 mapping 110 |--> zeta12^2, 442 |--> zeta12^3 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 981 of conductor 981 mapping 110 |--> -zeta3 - 1, 442 |--> zeta3 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 981 of conductor 981 mapping 110 |--> -zeta6 + 1, 442 |--> zeta6 - 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 981 of conductor 981 mapping 110 |--> zeta3, 442 |--> -zeta3 - 1 , twist= 4 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 981 of conductor 981 mapping 110 |--> -zeta3 - 1, 442 |--> -zeta3 - 1 , twist= 2 , order= 3 , f= 1 
+lambda= 1 , even Dirichlet character modulo 981 of conductor 981 mapping 110 |--> zeta12^2, 442 |--> -zeta12^3 , twist= 2 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 981 of conductor 981 mapping 110 |--> zeta6, 442 |--> -zeta6 + 1 , twist= 5 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 981 of conductor 981 mapping 110 |--> -zeta6, 442 |--> -zeta6 + 1 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 983 of conductor 983 mapping 5 |--> -1 , twist= 3 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 984 of conductor 984 mapping 247 |--> 1, 493 |--> -1, 329 |--> -1, 457 |--> zeta8^3 , twist= 4 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 984 of conductor 984 mapping 247 |--> 1, 493 |--> -1, 329 |--> -1, 457 |--> -zeta8 , twist= 4 , order= 8 , f= 2 
+lambda= 1 , even Dirichlet character modulo 985 of conductor 985 mapping 592 |--> -1, 396 |--> -1 , twist= 4 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 988 of conductor 988 mapping 495 |--> -1, 457 |--> zeta12^3, 781 |--> zeta12^2 , twist= 5 , order= 12 , f= 2 
+lambda= 1 , odd Dirichlet character modulo 988 of conductor 988 mapping 495 |--> -1, 457 |--> -zeta12^3, 781 |--> zeta12^2 , twist= 5 , order= 12 , f= 2 
+lambda= 1 , even Dirichlet character modulo 988 of conductor 988 mapping 495 |--> -1, 457 |--> -zeta6 + 1, 781 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 988 of conductor 988 mapping 495 |--> -1, 457 |--> -zeta6 + 1, 781 |--> zeta6 , twist= 4 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 988 of conductor 988 mapping 495 |--> -1, 457 |--> zeta6, 781 |--> zeta6 - 1 , twist= 3 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 988 of conductor 988 mapping 495 |--> -1, 457 |--> -zeta6, 781 |--> zeta6 - 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 988 of conductor 988 mapping 495 |--> -1, 457 |--> -zeta6 + 1, 781 |--> zeta6 - 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 988 of conductor 988 mapping 495 |--> -1, 457 |--> zeta6 - 1, 781 |--> -1 , twist= 0 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 988 of conductor 988 mapping 495 |--> -1, 457 |--> -1, 781 |--> -zeta6 , twist= 1 , order= 6 , f= 1 , trivial zero
+lambda= 2 , even Dirichlet character modulo 988 of conductor 988 mapping 495 |--> -1, 457 |--> -zeta6 + 1, 781 |--> -zeta6 + 1 , twist= 0 , order= 6 , f= 1 
+lambda= 2 , even Dirichlet character modulo 989 of conductor 989 mapping 603 |--> -1, 691 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 989 of conductor 989 mapping 603 |--> -1, 691 |--> -1 , twist= 0 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 989 of conductor 989 mapping 603 |--> -1, 691 |--> -1 , twist= 2 , order= 2 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 989 of conductor 989 mapping 603 |--> -1, 691 |--> -zeta6 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 989 of conductor 989 mapping 603 |--> -1, 691 |--> -zeta6 + 1 , twist= 2 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 991 of conductor 991 mapping 6 |--> zeta3 , twist= 4 , order= 3 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 991 of conductor 991 mapping 6 |--> -zeta6 + 1 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 991 of conductor 991 mapping 6 |--> -zeta6 + 1 , twist= 3 , order= 6 , f= 1 
+lambda= 1 , even Dirichlet character modulo 992 of conductor 992 mapping 63 |--> 1, 869 |--> zeta24^5 - zeta24, 65 |--> -zeta24^4 , twist= 0 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 992 of conductor 992 mapping 63 |--> 1, 869 |--> zeta24^5 - zeta24, 65 |--> -zeta24^4 , twist= 2 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 992 of conductor 992 mapping 63 |--> 1, 869 |--> -zeta24^3, 65 |--> -zeta24^4 , twist= 0 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 992 of conductor 992 mapping 63 |--> 1, 869 |--> -zeta24^3, 65 |--> -zeta24^4 , twist= 2 , order= 24 , f= 2 
+lambda= 1 , even Dirichlet character modulo 993 of conductor 993 mapping 332 |--> -1, 334 |--> zeta6 , twist= 0 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 995 of conductor 995 mapping 797 |--> -1, 401 |--> zeta6 , twist= 1 , order= 6 , f= 1 
+lambda= 1 , odd Dirichlet character modulo 995 of conductor 995 mapping 797 |--> -1, 401 |--> zeta6 , twist= 5 , order= 6 , f= 1 
+lambda= 2 , odd Dirichlet character modulo 996 of conductor 996 mapping 499 |--> -1, 665 |--> -1, 85 |--> -1 , twist= 5 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 997 of conductor 997 mapping 7 |--> -1 , twist= 4 , order= 2 , f= 1 
+lambda= 1 , even Dirichlet character modulo 997 of conductor 997 mapping 7 |--> -zeta3 - 1 , twist= 4 , order= 3 , f= 1 

@@ -1,6 +1,6 @@
-# Iwasawa
+# Iwasawa 
 
-*On Iwasawa* $\lambda$*-invariants for abelian number fields and random matrix heuristics* - preprint by Daniel Delbourgo and Heiko Knospe
+*On Iwasawa* $\lambda$*-invariants for abelian number fields and random matrix heuristics* - work in progress by Daniel Delbourgo and Heiko Knospe
 
 This respository contains SageMath code for computing p-adic L-functions, Iwasawa power series and $\lambda$-invariants.
 
@@ -13,7 +13,7 @@ Tables of $\lambda$-invariants for small characters and $p$ are here:
 [Table for p=3](lambda3-1000.txt)   
 [Table for p=5](lambda5-1000.txt)   
 [Table for p=7](lambda7-1000.txt)   
-The code for the computations of these tables can be found [here](power_series_lambda.ipynb).
+The code for the computations of these tables can be found [here](iwasawa/power_series_lambda.ipynb).
 
 
 ## References

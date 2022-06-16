@@ -2,7 +2,7 @@
 
 *On Iwasawa* $\lambda$*-invariants for abelian number fields and random matrix heuristics* - work in progress by Daniel Delbourgo and Heiko Knospe
 
-This respository contains SageMath code for computing p-adic L-functions, Iwasawa power series and $\lambda$-invariants.
+This respository contains SageMath code for computing p-adic L-functions, Iwasawa power series and $\lambda$-invariants for Dirichlet characters.
 
 [Computation of the values of p-adic L-functions for Dirichlet characters](padic_lfunction_dirichlet.ipynb)   
 [Computation of the Iwasawa power series for Dirichlet characters using series expansions](power_series_dirichlet.ipynb)  

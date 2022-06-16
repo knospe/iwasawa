@@ -13,7 +13,7 @@ Tables of $\lambda$-invariants for small characters and $p$ are here:
 [Table for p=3](lambda3-1000.txt)   
 [Table for p=5](lambda5-1000.txt)   
 [Table for p=7](lambda7-1000.txt)   
-The code for the computations of these tables can be found [here](power_series_lambda.ipynb).
+The code for the computations of these tables can be found [here](https://github.com/knospe/iwasawa/blob/main/power_series_lambda.ipynb).
 
 
 ## References

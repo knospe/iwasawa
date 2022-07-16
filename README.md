@@ -1,6 +1,6 @@
 # Iwasawa 
 
-*On Iwasawa* $\lambda$*-invariants for abelian number fields and random matrix heuristics* - work in progress by Daniel Delbourgo and Heiko Knospe
+[On Iwasawa lambda-invariants for abelian number fields and random matrix heuristics](https://arxiv.org/pdf/2207.06287.pdf) is a preprint by Daniel Delbourgo and Heiko Knospe.
 
 This respository contains SageMath code for computing p-adic L-functions, Iwasawa power series and $\lambda$-invariants for Dirichlet characters.
 
@@ -22,6 +22,9 @@ Daniel Delbourgo, A Dirichlet series expansion for the $p$-adic zeta-function, J
 Daniel Delbourgo, The convergence of Euler products over $p$-adic number fields, Proceedings of the Edinburgh Math. Society 52 (2009), 583-606.
 
 Daniel Delbourgo and Qin Chao, On $\lambda$-invariants attached to cyclic cubic number fields, LMS Journal of Comput. Math. 18 (2015), 684-698.
+
+Daniel Delbourgo and Heiko Knospe, On Iwasawa $\lambda$-invariants for abelian number fields and random matrix heuristics, preprint available at 
+https://arxiv.org/abs/2207.06287.
 
 Heiko Knospe and Lawrence Washington, Dirichlet series expansions of $p$-adic $L$-functions, Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg 91 (2021), 325-334. Open access at https://link.springer.com/article/10.1007/s12188-021-00244-0.
 

@@ -2,17 +2,18 @@
 
 [On Iwasawa lambda-invariants for abelian number fields and random matrix heuristics](https://arxiv.org/pdf/2207.06287.pdf) is a preprint by Daniel Delbourgo and Heiko Knospe.
 
-This respository contains SageMath code for computing p-adic L-functions, Iwasawa power series and $\lambda$-invariants for Dirichlet characters.
+This respository contains SageMath code for computing $p$-adic $L$-functions, Iwasawa power series and $\lambda$-invariants for Dirichlet characters $\chi$.
 
 [Computation of the values of p-adic L-functions for Dirichlet characters](padic_lfunction_dirichlet.ipynb)   
 [Computation of the Iwasawa power series for Dirichlet characters using series expansions](power_series_dirichlet.ipynb)  
 [The Iwasawa power series for Dirichlet characters via interpolation of Bernoulli numbers](power_series_interpolation.ipynb)   
 [The 𝜆-invariant of the Iwasawa power series for Dirichlet characters via interpolation of Bernoulli numbers](power_series_lambda.ipynb)
 
-Tables of $\lambda$-invariants for small characters and $p$ are here:    
+Tables of $\lambda$-invariants for small $\chi$ and $p$ are provided in an [Appendix](https://github.com/knospe/iwasawa/blob/main/Lambda_Invariants_Abelian_Number_Fields_appendix.pdf) to our paper on Iwasawa $\lambda$-invariants for abelian number fields. A text version of the data is available here:    
 [Table for p=3](https://github.com/knospe/iwasawa/blob/main/lambda3-1000.txt)   
 [Table for p=5](https://github.com/knospe/iwasawa/blob/main/lambda5-1000.txt)   
 [Table for p=7](https://github.com/knospe/iwasawa/blob/main/lambda7-1000.txt)   
+Note that $\lambda_p(\chi)=0$ if a character is not listed (resp. $\lambda_p(\chi)=1$ in the trivial zero case). The precise conditions are explained in the [Appendix](https://github.com/knospe/iwasawa/blob/main/Lambda_Invariants_Abelian_Number_Fields_appendix.pdf).
 The code for the computations of these tables can be found [here](https://github.com/knospe/iwasawa/blob/main/power_series_lambda.ipynb).
 
 

@@ -1,6 +1,6 @@
 # Iwasawa 
 
-[On Iwasawa lambda-invariants for abelian number fields and random matrix heuristics](https://arxiv.org/pdf/2207.06287.pdf) is a preprint by Daniel Delbourgo and Heiko Knospe.
+[On Iwasawa lambda-invariants for abelian number fields and random matrix heuristics](https://arxiv.org/abs/2207.06287) is a preprint by Daniel Delbourgo and Heiko Knospe.
 
 This respository contains SageMath code for computing $p$-adic $L$-functions, Iwasawa power series and $\lambda$-invariants for Dirichlet characters $\chi$.
 

@@ -7,7 +7,8 @@ This respository contains SageMath code for computing $p$-adic $L$-functions, Iw
 [Computation of the values of p-adic L-functions for Dirichlet characters](padic_lfunction_dirichlet.ipynb)   
 [Computation of the Iwasawa power series for Dirichlet characters using series expansions](power_series_dirichlet.ipynb)  
 [The Iwasawa power series for Dirichlet characters via interpolation of Bernoulli numbers](power_series_interpolation.ipynb)   
-[The 𝜆-invariant of the Iwasawa power series for Dirichlet characters via interpolation of Bernoulli numbers](power_series_lambda.ipynb)
+[The 𝜆-invariant of the Iwasawa power series for Dirichlet characters via interpolation of Bernoulli numbers](power_series_lambda.ipynb)     
+[Proportion of irregular primes for Dirichlet characters of fixed order](irregular.ipynb)
 
 Tables of $\lambda$-invariants for small $\chi$ and $p$ are provided in an [Appendix](https://github.com/knospe/iwasawa/blob/main/Lambda_Invariants_Abelian_Number_Fields_appendix.pdf) to our paper on Iwasawa $\lambda$-invariants for abelian number fields. A text version of the data is available here:    
 [Table for p=3](https://github.com/knospe/iwasawa/blob/main/lambda3-1000.txt)   

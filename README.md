@@ -1,9 +1,12 @@
-# Iwasawa 
+# Computations in Iwasawa Theory 
 
-[On Iwasawa lambda-invariants for abelian number fields and random matrix heuristics](https://arxiv.org/abs/2207.06287) is a preprint by Daniel Delbourgo and Heiko Knospe.
+This respository contains SageMath code to compute $p$-adic $L$-functions, Iwasawa power series and $\lambda$-invariants of Dirichlet characters $\chi$. The code is based on several papers.
 
-This respository contains SageMath code for computing $p$-adic $L$-functions, Iwasawa power series and $\lambda$-invariants for Dirichlet characters $\chi$.
+[On Iwasawa lambda-invariants for abelian number fields and random matrix heuristics](https://arxiv.org/abs/2207.06287) is a paper (2023) by Daniel Delbourgo and Heiko Knospe, published in [Math. Comp. 92 (2023), 1817-1836](https://doi.org/10.1090/mcom/3823). 
 
+[Special values of p-adic L-functions and Iwasawa lambda-invariants of Dirichlet characters](https://doi.org/10.48550/arXiv.2401.06100) is a preprint (2024) by Heiko Knospe.
+
+## SageMath Code
 [Computation of the values of p-adic L-functions for Dirichlet characters](padic_lfunction_dirichlet.ipynb)   
 [Computation of the Iwasawa power series for Dirichlet characters using series expansions](power_series_dirichlet.ipynb)  
 [The Iwasawa power series for Dirichlet characters via interpolation of Bernoulli numbers](power_series_interpolation.ipynb)   
@@ -25,9 +28,10 @@ Daniel Delbourgo, The convergence of Euler products over $p$-adic number fields,
 
 Daniel Delbourgo and Qin Chao, On $\lambda$-invariants attached to cyclic cubic number fields, LMS Journal of Comput. Math. 18 (2015), 684-698.
 
-Daniel Delbourgo and Heiko Knospe, On Iwasawa $\lambda$-invariants for abelian number fields and random matrix heuristics, preprint available at 
-https://arxiv.org/abs/2207.06287.
+Daniel Delbourgo and Heiko Knospe, On Iwasawa $\lambda$-invariants for abelian number fields and random matrix heuristics. Math. Comp. 92 (2023), 1817-1836.
 
 Heiko Knospe and Lawrence Washington, Dirichlet series expansions of $p$-adic $L$-functions, Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg 91 (2021), 325-334. Open access at https://link.springer.com/article/10.1007/s12188-021-00244-0.
+
+Heiko Knospe, Special values of $p$-adic L-functions and Iwasawa $\lambda$-invariants of Dirichlet characters. ArXiv e-prints 2401.06100.
 
 Luochen Zhao, Sum expressions for Kubota-Leopoldt $p$-adic $L$-functions, preprint available at https://arxiv.org/abs/2201.08870.

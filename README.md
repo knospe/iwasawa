@@ -4,7 +4,7 @@ This respository contains SageMath code to compute $p$-adic $L$-functions, Iwasa
 
 [On Iwasawa lambda-invariants for abelian number fields and random matrix heuristics](https://arxiv.org/abs/2207.06287) is a paper (2023) by Daniel Delbourgo and Heiko Knospe, published in [Math. Comp. 92 (2023), 1817-1836](https://doi.org/10.1090/mcom/3823). 
 
-[Special values of p-adic L-functions and Iwasawa lambda-invariants of Dirichlet characters](https://doi.org/10.48550/arXiv.2401.06100) is a preprint (2024) by Heiko Knospe.
+[Special values of p-adic L-functions and Iwasawa λ-invariants of Dirichlet characters](https://doi.org/10.48550/arXiv.2401.06100) is a preprint (2024) by Heiko Knospe, which will be published in the journal "Research in Number Theory" (2026).
 
 ## SageMath Code 
 [Computation of the values of p-adic L-functions for Dirichlet characters](padic_lfunction_dirichlet.ipynb)   
@@ -12,9 +12,9 @@ This respository contains SageMath code to compute $p$-adic $L$-functions, Iwasa
 [The Iwasawa power series for Dirichlet characters via interpolation of Bernoulli numbers](power_series_interpolation.ipynb)   
 [The 𝜆-invariant of the Iwasawa power series for Dirichlet characters via interpolation of Bernoulli numbers](power_series_lambda.ipynb)     
 [Proportion of irregular primes for Dirichlet characters of fixed order](irregular.ipynb)   
-[Computation of 𝜆-invariants using special values of p-adic L-functions (NEW)](lambda_special_values.ipynb)  
-[Efficient computation of the Iwasawa 𝜆-invariant for arbitary Dirichlet characters (NEW)](lambda_computation.ipynb)    
-[An alternative computation of the Iwasawa 𝜆-invariant using the value at s=1 (NEW)](lambda_computation_s=1.ipynb)    
+[Computation of 𝜆-invariants using special values of p-adic L-functions (sections 3 and 4 of the paper "Special values of p-adic L-functions and Iwasawa λ-invariants", rank 1 and rank 0 case)](lambda_special_values.ipynb)  
+[Efficient computation of the Iwasawa 𝜆-invariant for arbitary Dirichlet characters (section 5 of the "Special values" paper)](lambda_computation.ipynb)    
+[An alternative computation of the Iwasawa 𝜆-invariant using the value at s=1 (section 5 of the "Special values" paper)](lambda_computation_s=1.ipynb)    
 
 ## Data
 Tables of $\lambda$-invariants for small $\chi$ and $p$ are provided in an [Appendix](https://github.com/knospe/iwasawa/blob/main/Lambda_Invariants_Abelian_Number_Fields_appendix.pdf) to our paper on Iwasawa $\lambda$-invariants for abelian number fields. A text version of the data is available here:    
@@ -24,7 +24,7 @@ Tables of $\lambda$-invariants for small $\chi$ and $p$ are provided in an [Appe
 Note that $\lambda_p(\chi)=0$ if a character is not listed (resp. $\lambda_p(\chi)=1$ in the trivial zero (rank one) case). The precise conditions are explained in the [Appendix](https://github.com/knospe/iwasawa/blob/main/Lambda_Invariants_Abelian_Number_Fields_appendix.pdf).
 The code for the computations of these tables can be found [here](https://github.com/knospe/iwasawa/blob/main/power_series_lambda.ipynb).
 
-[Numerical data for the paper "Special values of p-adic L-functions and Iwasawa λ-invariants of Dirichlet characters" (NEW)](data-lambda-invariants.md)
+[Numerical data for the paper "Special values of p-adic L-functions and Iwasawa λ-invariants of Dirichlet characters".](data-lambda-invariants.md)
 
 ## References
 Daniel Delbourgo, A Dirichlet series expansion for the $p$-adic zeta-function, Journal of the Australian Math. Society 81 (2006), 215-224.

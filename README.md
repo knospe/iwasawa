@@ -4,7 +4,7 @@ This respository contains SageMath code to compute $p$-adic $L$-functions, Iwasa
 
 [On Iwasawa lambda-invariants for abelian number fields and random matrix heuristics](https://arxiv.org/abs/2207.06287) is a paper (2023) by Daniel Delbourgo and Heiko Knospe, published in [Math. Comp. 92 (2023), 1817-1836](https://doi.org/10.1090/mcom/3823). 
 
-[Special values of p-adic L-functions and Iwasawa λ-invariants of Dirichlet characters](https://doi.org/10.48550/arXiv.2401.06100) is a preprint (2024) by Heiko Knospe, which will be published in the journal "Research in Number Theory" (2026).
+[Special values of p-adic L-functions and Iwasawa λ-invariants of Dirichlet characters](https://rdcu.be/fvsB7) is a paper by Heiko Knospe, published in [Research in Number Theory 12, 76 (2026)](https://link.springer.com/article/10.1007/s40993-026-00762-x).
 
 ## SageMath Code 
 [Computation of the values of p-adic L-functions for Dirichlet characters](padic_lfunction_dirichlet.ipynb)   
@@ -37,6 +37,6 @@ Daniel Delbourgo and Heiko Knospe, On Iwasawa $\lambda$-invariants for abelian n
 
 Heiko Knospe and Lawrence Washington, Dirichlet series expansions of $p$-adic $L$-functions, Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg 91 (2021), 325-334. Open access at https://link.springer.com/article/10.1007/s12188-021-00244-0.
 
-Heiko Knospe, Special values of $p$-adic L-functions and Iwasawa $\lambda$-invariants of Dirichlet characters. [ArXiv e-prints 2401.06100](https://doi.org/10.48550/arXiv.2401.06100).
+Heiko Knospe, Special values of $p$-adic L-functions and Iwasawa $\lambda$-invariants of Dirichlet characters, [Res. number theory 12, 76 (2026)](https://link.springer.com/article/10.1007/s40993-026-00762-x) (open access).
 
 Luochen Zhao, Sum expressions for Kubota-Leopoldt $p$-adic $L$-functions, Proceedings of the Edinburgh Mathematical Society 65 (2022), no. 2, 460–479.
